@@ -1,4 +1,4 @@
-module yourfutura-go-pkg
+module github.com/rizkysr90/tools/yourfutura-go-pkg
 
 go 1.24.3
 
